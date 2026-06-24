@@ -18,8 +18,10 @@ website:
       - text: "Home"
         href: index.qmd
     right: 
-      - icon: github
-        href: https://github.com/michelleastern/michelleastern.github.io
+      -text: "About"
+      href: about.qmd
+      -icon: github
+      href: https://github.com/michelleastern/michelleastern.github.io
   page-footer: 
     center: "Copyright &copy; 2026, Michelle Stern"
     background: secondary
