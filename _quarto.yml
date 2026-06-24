@@ -10,7 +10,7 @@ execute:
 
 website:
   title: "Michelle's website"
-  repo-url: https://github.com/michelleastern/michelleastern.github.io
+  repo-url: https://michelleastern.github.io/
   repo-actions: [issue]
   navbar:
     background: primary
@@ -18,10 +18,8 @@ website:
       - text: "Home"
         href: index.qmd
     right: 
-      -text: "About"
-      href: about.qmd
-      -icon: github
-      href: https://github.com/michelleastern/michelleastern.github.io
+      - icon: github
+        href: https://michelleastern.github.io/
   page-footer: 
     center: "Copyright &copy; 2026, Michelle Stern"
     background: secondary
