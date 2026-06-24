@@ -46,7 +46,7 @@ pre code:not(.sourceCode) { background-color: $gray-2; }
 
 // Improve contrast for tabset panels
 .nav-tabs .nav-link.active { 
-  background-color: #FFF; 
-  color: $black;
+  background-color: #000; 
+  color: $white;
 }
-.tab-content { background-color: #FFF; }
+.tab-content { background-color: #000; }

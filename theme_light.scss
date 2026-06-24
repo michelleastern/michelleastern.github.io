@@ -7,6 +7,7 @@ $org-2: #ffbf69;
 $mint-1: #2ec4b6;
 $mint-2: #cbf3f0;
 $url-blue: #4361ee;
+$purple: #7209b7;
 
 /* generally useful other colors */
 $cream: #F4F3EE;
@@ -22,7 +23,7 @@ $font-size: 25px;
 // Base document colors
 $navbar-bg: $org-1; // navbar
 $navbar-fg: $charcoal; // navbar foreground elements
-$navbar-hl: $org-2; // highlight color when hovering on a page
+$navbar-hl: $purple; // highlight color when hovering on a page - and some text
 $sidebar-bg: $org-2; // sidebar
 $sidebar-fg: $charcoal; // sidebar foreground elements
 $body-bg: $cream; // page background
