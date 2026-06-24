@@ -25,6 +25,7 @@
 # Quarto folders
 /.quarto/
 docs/
+**/*.quarto_ipynb
 
 # produced vignettes
 vignettes/*.html
@@ -52,3 +53,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
