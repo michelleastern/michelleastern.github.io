@@ -1,0 +1,31 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Michelle's website"
+  repo-url: https://github.com/michelleastern/michelleastern.github.io
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+    right: 
+      - icon: github
+        href: https://github.com/michelleastern/michelleastern.github.io
+  page-footer: 
+    center: "Copyright &copy; 2026, Michelle Stern"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false

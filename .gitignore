@@ -20,6 +20,11 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj
+
+# Quarto folders
+/.quarto/
+docs/
 
 # produced vignettes
 vignettes/*.html
