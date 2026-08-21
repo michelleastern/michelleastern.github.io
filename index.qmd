@@ -9,7 +9,7 @@ format:
     css: theme_dark.scss
 ---
 
-![](images/headshot.jpg){width=220 alt="Michelle Stern headshot"}
+![](images/Stern_Pic.jpg){width=220 alt="Michelle Stern headshot"}
 
 **Michelle Stern, PhD**  
 Senior Environmental Scientist, Delta Science Program — Delta Stewardship Council  
@@ -27,7 +27,7 @@ My expertise focuses on applying field observations, remote sensing, and hydrolo
 
 ## Research keywords
 
-hydrology • sediment transport • soil moisture • post-fire runoff • remote sensing • climate change • watershed modeling • open data • harmful algal blooms
+hydrology • sediment transport • soil moisture • post-fire runoff • remote sensing • climate change • watershed modeling • open data • harmful algal blooms • GIS
 
 ---
 
