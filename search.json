@@ -2,16 +2,58 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dr. Michelle Stern",
+    "title": "Michelle Stern, PhD",
     "section": "",
-    "text": "Google Scholar"
+    "text": "Michelle Stern, PhD\nSenior Environmental Scientist, Delta Science Program — Delta Stewardship Council\nORCID: 0000-0003-3030-7065\nGoogle Scholar • ResearchGate • GitHub"
   },
   {
-    "objectID": "index.html#under-construction",
-    "href": "index.html#under-construction",
-    "title": "Dr. Michelle Stern",
-    "section": "Under Construction",
-    "text": "Under Construction\nCheck back later!"
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": "Michelle Stern, PhD",
+    "section": "Short bio",
+    "text": "Short bio\nMy expertise focuses on applying field observations, remote sensing, and hydrologic and sediment transport modeling to understand how changing climate, wildfire, and land use influence water, soils, and water quality processes in California and the western U.S. My work supports resource management in the Sacramento San Joaquin Bay-Delta through model development, open and transparent model and data practices, and collaborative science. My current priority is moving collaborative modeling forward via the Delta Modeling Collaboratory."
+  },
+  {
+    "objectID": "index.html#research-keywords",
+    "href": "index.html#research-keywords",
+    "title": "Michelle Stern, PhD",
+    "section": "Research keywords",
+    "text": "Research keywords\nhydrology • sediment transport • soil moisture • post-fire runoff • remote sensing • climate change • watershed modeling • open data • harmful algal blooms"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Michelle Stern, PhD",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nStern, M.; Flint, L.; Minear, J.; Flint, A.; Wright, S. (2016). “Characterizing changes in streamflow and sediment supply in the Sacramento River Basin, California, using hydrological simulation program—FORTRAN (HSPF).” Water, 8(10):432.\nDOI: https://www.mdpi.com/2073-4441/8/10/432\nLay summary: Uses hydrologic modeling to document trends in streamflow and suspended-sediment supply across the Sacramento River Basin useful for watershed and Delta planning.\nStern, M. A.; Flint, L. E.; Flint, A. L.; Knowles, N.; Wright, S. A. (2020). “The future of sediment transport and streamflow under a changing climate and the implications for long‑term resilience of the San Francisco Bay‑Delta.” Water Resources Research: e2019WR026245.\nDOI: https://doi.org/10.1029/2019WR026245\nLay summary: Projects how climate-driven changes in streamflow and sediment will affect the Bay‑Delta system and discusses implications for long‑term resilience planning.\nFlint, L. E.; Flint, A. L.; Stern, M. A. (2021). “The Basin Characterization Model—A Monthly Regional Waterbalance Software Package (BCMv8) Data Release and Model Archive for Hydrologic California.” USGS Data Release.\nDOI: https://doi.org/10.5066/P9PT36UI\nLay summary: Provides a publicly available model archive and data release (BCMv8) used to produce historical and future monthly climate and hydrology datasets across California.\nBaalousha, M.; Desmau, M.; Singerling, S. A.; Webster, J. P.; Matiasek, S. J.; Stern, M. A.; Alpers, C. N. (2022). “Discovery and potential ramifications of reduced iron‑bearing nanoparticles—magnetite, wüstite, and zero‑valent iron—in wildland–urban interface fire ashes.” Environmental Science: Nano, 9(11):4136–4149.\nDOI: https://doi.org/10.1039/d2en00248b\nLay summary: Identifies iron‑bearing nanoparticles in wildfire ash and evaluates potential environmental and health implications after fires.\nCurtis, J. A.; Flint, L. E.; Stern, M. A. (2019). “A Multi‑Scale Soil Moisture Monitoring Strategy for California: Design and Validation.” JAWRA Journal of the American Water Resources Association, 55(3):740–758.\nDOI: https://doi.org/10.1111/1752-1688.12736\nLay summary: Describes a multi‑scale monitoring design and validation approach to improve soil moisture observations that support water‑resource and drought monitoring.\nStern, M. A.; Flint, L. E.; Flint, A. L.; Christensen, A. H. (2021). “A Basin‑Scale Approach to Estimating Recharge in the Desert: Anza‑Cahuilla Groundwater Basin, CA.” JAWRA Journal of the American Water Resources Association, 57(6):990–1003.\nDOI: https://doi.org/10.1111/1752-1688.12939\nLay summary: Presents a basin‑scale method to estimate groundwater recharge in arid/desert basins to inform groundwater management decisions.\nCurtis, J. A.; Flint, L. E.; Stern, M. A.; Lewis, J.; Klein, R. D. (2021). “Amplified Impact of Climate Change on Fine‑Sediment Delivery to a Subsiding Coast, Humboldt Bay, California.” Estuaries and Coasts, 44(8):2173–2193.\nDOI: https://doi.org/10.1007/s12237-021-00992-x\nLay summary: Shows how climate change increases fine‑sediment delivery to subsiding coastal bays, with implications for coastal resilience and habitat.\nStern, M. A.; Flint, L. E.; Flint, A. L.; Boynton, R. M.; Stewart, J. A. E.; Wright, J. W.; Thorne, J. H. (2022). “Selecting the optimal fine‑scale historical climate data for assessing current and future hydrological conditions.” Journal of Hydrometeorology, 23(3):293–308.\nDOI: https://doi.org/10.1175/JHM-D-21-0121.1\nLay summary: Evaluates historical climate datasets to identify the best options for hydrologic assessments under current and future climates.\nStern, M.; Ferrell, R.; Flint, L.; Kozanitas, M.; Ackerly, D.; Elston, J.; Stachura, M.; Dai, E.; Thorne, J. (2024). “Fine‑scale surficial soil moisture mapping using UAS‑based L‑band remote sensing in a mixed oak‑grassland landscape.” Frontiers in Remote Sensing, 5:1337953.\nDOI: https://doi.org/10.3389/frsen.2024.1337953\nLay summary: Demonstrates how an unmanned aircraft system (UAS) L‑band radiometer can map soil moisture at fine scales to support fire‑risk and ecological monitoring.\nWang, J.; Stern, M. A.; King, V. M.; Alpers, C. N.; Quinn, N. W. T.; Flint, A. L.; Flint, L. E. (2020). “PFHydro: A New Watershed-Scale Model for Post-Fire Runoff Simulation.” Environmental Modelling & Software, 123:104555.\nDOI: https://doi.org/10.1016/j.envsoft.2019.104555\nLay summary: Introduces PFHydro, a watershed model that predicts how wildfire changes runoff and sediment delivery so managers can better plan post-fire flood and erosion responses."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Michelle Stern, PhD",
+    "section": "Selected projects",
+    "text": "Selected projects\n\nBCMv8: Basin Characterization Model data releases and model archive for California hydrology.\n\nUAS L‑band surveys: high‑resolution soil moisture mapping to improve fire‑danger and ecological monitoring.\nPFHydro: watershed model development for post‑fire runoff and sediment forecasting."
+  },
+  {
+    "objectID": "index.html#teaching-mentoring",
+    "href": "index.html#teaching-mentoring",
+    "title": "Michelle Stern, PhD",
+    "section": "Teaching & mentoring",
+    "text": "Teaching & mentoring\n\nGuest lectures and short courses on hydrologic modeling, soil moisture monitoring, and post‑fire hydrology.\n\nSupervision and collaboration with graduate and undergraduate students on applied watershed and remote‑sensing projects."
+  },
+  {
+    "objectID": "index.html#data-code",
+    "href": "index.html#data-code",
+    "title": "Michelle Stern, PhD",
+    "section": "Data & code",
+    "text": "Data & code\nMany of my data releases and model archives are available through USGS data releases and institutional repositories (see publications for dataset DOIs). If you need a specific dataset or model archive, contact me."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Michelle Stern, PhD",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: michelle.stern@deltacouncil.ca.gov\nOffice: Delta Science Program, Delta Stewardship Council\n\nORCID: 0000-0003-3030-7065\n\nGoogle Scholar: https://scholar.google.com/citations?user=XYN5od0AAAAJ&hl=en\n\nResearchGate: https://www.researchgate.net/profile/Michelle-Stern"
   },
   {
     "objectID": "about.html",
