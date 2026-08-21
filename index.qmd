@@ -1,6 +1,5 @@
 ---
 title: "Michelle Stern, PhD"
-author: "Michelle Stern"
 date: 2026-08-21
 format:
   html:
@@ -9,7 +8,7 @@ format:
     css: theme_dark.scss
 ---
 
-![](images/Stern_Pic.jpg){width=220 alt="Michelle Stern headshot"}
+![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}
 
 **Michelle Stern, PhD**  
 Senior Environmental Scientist, Delta Science Program — Delta Stewardship Council  
@@ -34,44 +33,54 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 ## Selected publications
 
 1. Stern, M.; Flint, L.; Minear, J.; Flint, A.; Wright, S. (2016). "Characterizing changes in streamflow and sediment supply in the Sacramento River Basin, California, using hydrological simulation program—FORTRAN (HSPF)." *Water*, 8(10):432.  
-   DOI: https://www.mdpi.com/2073-4441/8/10/432  
-   Lay summary: Uses hydrologic modeling to document trends in streamflow and suspended-sediment supply across the Sacramento River Basin useful for watershed and Delta planning.
+   [https://www.mdpi.com/2073-4441/8/10/432](https://www.mdpi.com/2073-4441/8/10/432)  
+
+   Uses hydrologic modeling to document trends in streamflow and suspended-sediment supply across the Sacramento River Basin useful for watershed and Delta planning.
 
 2. Stern, M. A.; Flint, L. E.; Flint, A. L.; Knowles, N.; Wright, S. A. (2020). "The future of sediment transport and streamflow under a changing climate and the implications for long‑term resilience of the San Francisco Bay‑Delta." *Water Resources Research*: e2019WR026245.  
-   DOI: https://doi.org/10.1029/2019WR026245  
-   Lay summary: Projects how climate-driven changes in streamflow and sediment will affect the Bay‑Delta system and discusses implications for long‑term resilience planning.
+   [https://doi.org/10.1029/2019WR026245](https://doi.org/10.1029/2019WR026245)
+   
+   Projects how climate-driven changes in streamflow and sediment will affect the Bay‑Delta system and discusses implications for long‑term resilience planning.
 
 3. Flint, L. E.; Flint, A. L.; Stern, M. A. (2021). "The Basin Characterization Model—A Monthly Regional Waterbalance Software Package (BCMv8) Data Release and Model Archive for Hydrologic California." USGS Data Release.  
-    DOI: https://doi.org/10.5066/P9PT36UI  
-    Lay summary: Provides a publicly available model archive and data release (BCMv8) used to produce historical and future monthly climate and hydrology datasets across California.
+    [https://doi.org/10.5066/P9PT36UI](https://doi.org/10.5066/P9PT36UI)
+
+    Provides a publicly available model archive and data release (BCMv8) used to produce historical and future monthly climate and hydrology datasets across California.
 
 4. Baalousha, M.; Desmau, M.; Singerling, S. A.; Webster, J. P.; Matiasek, S. J.; Stern, M. A.; Alpers, C. N. (2022). "Discovery and potential ramifications of reduced iron‑bearing nanoparticles—magnetite, wüstite, and zero‑valent iron—in wildland–urban interface fire ashes." *Environmental Science: Nano*, 9(11):4136–4149.  
-   DOI: https://doi.org/10.1039/d2en00248b  
-   Lay summary: Identifies iron‑bearing nanoparticles in wildfire ash and evaluates potential environmental and health implications after fires.
+   [https://doi.org/10.1039/d2en00248b](https://doi.org/10.1039/d2en00248b)  
+
+   Identifies iron‑bearing nanoparticles in wildfire ash and evaluates potential environmental and health implications after fires.
 
 5. Curtis, J. A.; Flint, L. E.; Stern, M. A. (2019). "A Multi‑Scale Soil Moisture Monitoring Strategy for California: Design and Validation." *JAWRA Journal of the American Water Resources Association*, 55(3):740–758.  
-   DOI: https://doi.org/10.1111/1752-1688.12736  
-   Lay summary: Describes a multi‑scale monitoring design and validation approach to improve soil moisture observations that support water‑resource and drought monitoring.
+   [https://doi.org/10.1111/1752-1688.12736](https://doi.org/10.1111/1752-1688.12736)  
+   
+   Describes a multi‑scale monitoring design and validation approach to improve soil moisture observations that support water‑resource and drought monitoring.
 
 6. Stern, M. A.; Flint, L. E.; Flint, A. L.; Christensen, A. H. (2021). "A Basin‑Scale Approach to Estimating Recharge in the Desert: Anza‑Cahuilla Groundwater Basin, CA." *JAWRA Journal of the American Water Resources Association*, 57(6):990–1003.  
-   DOI: https://doi.org/10.1111/1752-1688.12939  
-   Lay summary: Presents a basin‑scale method to estimate groundwater recharge in arid/desert basins to inform groundwater management decisions.
+   [https://doi.org/10.1111/1752-1688.12939](https://doi.org/10.1111/1752-1688.12939)  
+   
+   Presents a basin‑scale method to estimate groundwater recharge in arid/desert basins to inform groundwater management decisions.
 
 7. Curtis, J. A.; Flint, L. E.; Stern, M. A.; Lewis, J.; Klein, R. D. (2021). "Amplified Impact of Climate Change on Fine‑Sediment Delivery to a Subsiding Coast, Humboldt Bay, California." *Estuaries and Coasts*, 44(8):2173–2193.  
-   DOI: https://doi.org/10.1007/s12237-021-00992-x  
-   Lay summary: Shows how climate change increases fine‑sediment delivery to subsiding coastal bays, with implications for coastal resilience and habitat.
+   [https://doi.org/10.1007/s12237-021-00992-x](https://doi.org/10.1007/s12237-021-00992-x)  
+   
+   Shows how climate change increases fine‑sediment delivery to subsiding coastal bays, with implications for coastal resilience and habitat.
 
 8. Stern, M. A.; Flint, L. E.; Flint, A. L.; Boynton, R. M.; Stewart, J. A. E.; Wright, J. W.; Thorne, J. H. (2022). "Selecting the optimal fine‑scale historical climate data for assessing current and future hydrological conditions." *Journal of Hydrometeorology*, 23(3):293–308.  
-   DOI: https://doi.org/10.1175/JHM-D-21-0121.1  
-   Lay summary: Evaluates historical climate datasets to identify the best options for hydrologic assessments under current and future climates.
+   [https://doi.org/10.1175/JHM-D-21-0121.1](https://doi.org/10.1175/JHM-D-21-0121.1)  
+   
+   Evaluates historical climate datasets to identify the best options for hydrologic assessments under current and future climates.
 
 9. Stern, M.; Ferrell, R.; Flint, L.; Kozanitas, M.; Ackerly, D.; Elston, J.; Stachura, M.; Dai, E.; Thorne, J. (2024). "Fine‑scale surficial soil moisture mapping using UAS‑based L‑band remote sensing in a mixed oak‑grassland landscape." *Frontiers in Remote Sensing*, 5:1337953.  
-   DOI: https://doi.org/10.3389/frsen.2024.1337953  
-   Lay summary: Demonstrates how an unmanned aircraft system (UAS) L‑band radiometer can map soil moisture at fine scales to support fire‑risk and ecological monitoring.
+   [https://doi.org/10.3389/frsen.2024.1337953](https://doi.org/10.3389/frsen.2024.1337953)  
+   
+   Demonstrates how an unmanned aircraft system (UAS) L‑band radiometer can map soil moisture at fine scales to support fire‑risk and ecological monitoring.
 
 10. Wang, J.; Stern, M. A.; King, V. M.; Alpers, C. N.; Quinn, N. W. T.; Flint, A. L.; Flint, L. E. (2020). "PFHydro: A New Watershed-Scale Model for Post-Fire Runoff Simulation." *Environmental Modelling & Software*, 123:104555.  
-   DOI: https://doi.org/10.1016/j.envsoft.2019.104555  
-   Lay summary: Introduces PFHydro, a watershed model that predicts how wildfire changes runoff and sediment delivery so managers can better plan post-fire flood and erosion responses.
+   [https://doi.org/10.1016/j.envsoft.2019.104555](https://doi.org/10.1016/j.envsoft.2019.104555)  
+   
+      Introduces PFHydro, a watershed model that predicts how wildfire changes runoff and sediment delivery so managers can better plan post-fire flood and erosion responses.
 
 ---
 
@@ -79,7 +88,7 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 
 
 - BCMv8: Basin Characterization Model data releases and model archive for California hydrology.  
-- UAS L‑band surveys: high‑resolution soil moisture mapping to improve fire‑danger and ecological monitoring.
+- L‑band radar UAS surveys: high‑resolution soil moisture mapping to improve fire‑danger and ecological monitoring.
 - PFHydro: watershed model development for post‑fire runoff and sediment forecasting. 
 
 ---
@@ -87,21 +96,18 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 ## Teaching & mentoring
 
 - Guest lectures and short courses on hydrologic modeling, soil moisture monitoring, and post‑fire hydrology.  
-- Supervision and collaboration with graduate and undergraduate students on applied watershed and remote‑sensing projects.
+- Supervises and collaborates with graduate and undergraduate students on applied watershed and remote‑sensing projects.
 
 ---
 
 ## Data & code
 
-Many of my data releases and model archives are available through USGS data releases and institutional repositories (see publications for dataset DOIs). If you need a specific dataset or model archive, contact me.
+I strive to practice open data practices. Most of my data releases and model archives are available through USGS data releases and institutional repositories (see publications for dataset DOIs). If you need a specific dataset or model archive, contact me.
 
 ---
 
 ## Contact
 
-- Email: michelle.stern@deltacouncil.ca.gov 
-- Office: Delta Science Program, Delta Stewardship Council  
-- ORCID: [0000-0003-3030-7065](https://orcid.org/0000-0003-3030-7065)  
-- Google Scholar: (https://scholar.google.com/citations?user=XYN5od0AAAAJ&hl=en)  
-- ResearchGate: (https://www.researchgate.net/profile/Michelle-Stern)
+- [michelle.stern@deltacouncil](michelle.stern@deltacouncil.ca.gov) 
+- Delta Science Program, Delta Stewardship Council  
 
