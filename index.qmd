@@ -10,7 +10,7 @@ format:
 ---
 
 
-![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}![](images/SFC2.jpg){width=180 alt="Walking on snow"}![](images/Yosemite.jpg){width=85 alt="At a monitoring station"}![](images/Drone.jpg){width=152 alt="Holding a drone"}![](images/Soilmoisture.jpg){width=85 alt="Soil moisture station"}
+![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}![](images/SFC2.jpg){width=180 alt="Walking on snow"}![](images/Yosemite.jpg){width=85 alt="At a monitoring station"}![](images/Drone.jpg){width=152 alt="Holding a drone"}![](images/Soilmoisture.jpg){width=85 alt="Soil moisture station"} 
 
 **Michelle Stern, PhD**  
 Senior Environmental Scientist, Delta Science Program — Delta Stewardship Council  
