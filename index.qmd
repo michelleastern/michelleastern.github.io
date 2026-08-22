@@ -8,7 +8,8 @@ format:
     css: theme_dark.scss
 ---
 
-![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}
+
+![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}![](images/SFC2.jpg){width=180 alt="Walking on snow"}![](images/Yosemite.jpg){width=85 alt="At a monitoring station"}![](images/Drone.jpg){width=152 alt="Holding a drone"}![](images/Soilmoisture.jpg){width=85 alt="Holding a drone"}
 
 **Michelle Stern, PhD**  
 Senior Environmental Scientist, Delta Science Program — Delta Stewardship Council  
@@ -42,10 +43,10 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
    
    Projects how climate-driven changes in streamflow and sediment will affect the Bay‑Delta system and discusses implications for long‑term resilience planning.
 
-3. Flint, L. E.; Flint, A. L.; Stern, M. A. (2021). "The Basin Characterization Model—A Monthly Regional Waterbalance Software Package (BCMv8) Data Release and Model Archive for Hydrologic California." USGS Data Release.  
-    [https://doi.org/10.5066/P9PT36UI](https://doi.org/10.5066/P9PT36UI)
+3. Flint, L. E.; Flint, A. L.; Stern, M. A. (2021). "The Basin Characterization Model—A Monthly Regional Water balance software package." USGS Techniques and Methods 6-H1.  
+    [https://doi.org/10.3133/tm6H1](https://doi.org/10.3133/tm6H1)
 
-    Provides a publicly available model archive and data release (BCMv8) used to produce historical and future monthly climate and hydrology datasets across California.
+    Publicly available model documentation for the Basin Characterization Model (BCMv8) used to produce historical and future monthly climate and hydrology datasets across California.
 
 4. Baalousha, M.; Desmau, M.; Singerling, S. A.; Webster, J. P.; Matiasek, S. J.; Stern, M. A.; Alpers, C. N. (2022). "Discovery and potential ramifications of reduced iron‑bearing nanoparticles—magnetite, wüstite, and zero‑valent iron—in wildland–urban interface fire ashes." *Environmental Science: Nano*, 9(11):4136–4149.  
    [https://doi.org/10.1039/d2en00248b](https://doi.org/10.1039/d2en00248b)  
@@ -75,7 +76,7 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 9. Stern, M.; Ferrell, R.; Flint, L.; Kozanitas, M.; Ackerly, D.; Elston, J.; Stachura, M.; Dai, E.; Thorne, J. (2024). "Fine‑scale surficial soil moisture mapping using UAS‑based L‑band remote sensing in a mixed oak‑grassland landscape." *Frontiers in Remote Sensing*, 5:1337953.  
    [https://doi.org/10.3389/frsen.2024.1337953](https://doi.org/10.3389/frsen.2024.1337953)  
    
-   Demonstrates how an unmanned aircraft system (UAS) L‑band radiometer can map soil moisture at fine scales to support fire‑risk and ecological monitoring.
+   Demonstrates how an unoccupied aircraft system (UAS) L‑band radiometer can map soil moisture at fine scales to support fire‑risk and ecological monitoring.
 
 10. Wang, J.; Stern, M. A.; King, V. M.; Alpers, C. N.; Quinn, N. W. T.; Flint, A. L.; Flint, L. E. (2020). "PFHydro: A New Watershed-Scale Model for Post-Fire Runoff Simulation." *Environmental Modelling & Software*, 123:104555.  
    [https://doi.org/10.1016/j.envsoft.2019.104555](https://doi.org/10.1016/j.envsoft.2019.104555)  
@@ -86,10 +87,11 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 
 ## Selected projects
 
-
-- BCMv8: Basin Characterization Model data releases and model archive for California hydrology.  
-- L‑band radar UAS surveys: high‑resolution soil moisture mapping to improve fire‑danger and ecological monitoring.
-- PFHydro: watershed model development for post‑fire runoff and sediment forecasting. 
+- [Cyanobacterial Harmful Algal Bloom (CHABs) NCEAS Synthesis](https://delta-stewardship-council.github.io/swg-26-chab/) 
+- Soil moisture monitoring in the [Upper Feather River watershed](https://ca.water.usgs.gov/upper-feather-river-watershed/)
+- [Climate and hydrology explorer](https://ca.water.usgs.gov/projects/cdfw-climate-hydrology-explorer) for CDFW Sentinel sites
+- [BCMv8: Basin Characterization Model, 1896-present](https://www.sciencebase.gov/catalog/item/5f29c62d82cef313ed9edb39) and [CMIP5 future scenarios](https://www.sciencebase.gov/catalog/item/61e069f3d34e8911d9fe9dba) for California hydrology 
+- [Feather River 30-m BCMv8](https://www.sciencebase.gov/catalog/item/686f08f2d4be020e5c01cbbe) 
 
 ---
 
@@ -102,7 +104,7 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 
 ## Data & code
 
-I strive to practice open data practices. Most of my data releases and model archives are available through USGS data releases and institutional repositories (see publications for dataset DOIs). If you need a specific dataset or model archive, contact me.
+I am committed to open data and modeling practices. Most of my data releases and model archives are available through USGS data releases and institutional repositories (see publications for dataset DOIs). If you need a specific dataset or model archive, contact me.
 
 ---
 
@@ -111,3 +113,6 @@ I strive to practice open data practices. Most of my data releases and model arc
 - [michelle.stern@deltacouncil](michelle.stern@deltacouncil.ca.gov) 
 - Delta Science Program, Delta Stewardship Council  
 
+<figure class="banner-figure" aria-label="Monitoring site and a drone flying overhead">
+  <img src="images/Monitoring.jpg" alt="Aerial view of watershed" style="width:100%;height:auto;display:block;">
+</figure>
