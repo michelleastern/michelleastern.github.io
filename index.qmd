@@ -6,10 +6,11 @@ format:
     toc: true
     theme: cosmo
     css: theme_dark.scss
+    mainfont: Open Sans
 ---
 
 
-![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}![](images/SFC2.jpg){width=180 alt="Walking on snow"}![](images/Yosemite.jpg){width=85 alt="At a monitoring station"}![](images/Drone.jpg){width=152 alt="Holding a drone"}![](images/Soilmoisture.jpg){width=85 alt="Holding a drone"}
+![](images/Stern_Pic.jpg){width=90 alt="Michelle Stern headshot"}![](images/SFC2.jpg){width=180 alt="Walking on snow"}![](images/Yosemite.jpg){width=85 alt="At a monitoring station"}![](images/Drone.jpg){width=152 alt="Holding a drone"}![](images/Soilmoisture.jpg){width=85 alt="Soil moisture station"}
 
 **Michelle Stern, PhD**  
 Senior Environmental Scientist, Delta Science Program — Delta Stewardship Council  
@@ -21,13 +22,23 @@ ORCID: [0000-0003-3030-7065](https://orcid.org/0000-0003-3030-7065)
 
 ## Short bio
 
-My expertise focuses on applying field observations, remote sensing, and hydrologic and sediment transport modeling to understand how changing climate, wildfire, and land use influence water, soils, and water quality processes in California and the western U.S. My work supports resource management in the Sacramento San Joaquin Bay-Delta through model development, open and transparent model and data practices, and collaborative science. My current priority is moving collaborative modeling forward via the Delta Modeling Collaboratory.
+I study how changes in climate, wildfires, and land use affect water, soil, and water quality in California and the western United States. My work combines field observations, satellite data, and models to better understand water quantity and quality. My work supports resource management in the Sacramento San Joaquin Bay-Delta through open and transparent model and data practices, model development, and translating science through maps, synthesis, and other products. My current priority is to advance collaborative modeling through the Delta Modeling Collaboratory.
 
 ---
 
 ## Research keywords
 
 hydrology • sediment transport • soil moisture • post-fire runoff • remote sensing • climate change • watershed modeling • open data • harmful algal blooms • GIS
+
+---
+
+## Selected projects
+
+- [Cyanobacterial Harmful Algal Bloom (CHABs) NCEAS Synthesis](https://delta-stewardship-council.github.io/swg-26-chab/) 
+- Soil moisture monitoring in the [Upper Feather River watershed](https://ca.water.usgs.gov/upper-feather-river-watershed/)
+- [Climate and hydrology explorer](https://ca.water.usgs.gov/projects/cdfw-climate-hydrology-explorer) for CDFW Sentinel sites
+- [BCMv8: Basin Characterization Model, 1896-present](https://www.sciencebase.gov/catalog/item/5f29c62d82cef313ed9edb39) and [CMIP5 future scenarios](https://www.sciencebase.gov/catalog/item/61e069f3d34e8911d9fe9dba) for California hydrology 
+- [Feather River 30-m BCMv8](https://www.sciencebase.gov/catalog/item/686f08f2d4be020e5c01cbbe) 
 
 ---
 
@@ -85,15 +96,6 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 
 ---
 
-## Selected projects
-
-- [Cyanobacterial Harmful Algal Bloom (CHABs) NCEAS Synthesis](https://delta-stewardship-council.github.io/swg-26-chab/) 
-- Soil moisture monitoring in the [Upper Feather River watershed](https://ca.water.usgs.gov/upper-feather-river-watershed/)
-- [Climate and hydrology explorer](https://ca.water.usgs.gov/projects/cdfw-climate-hydrology-explorer) for CDFW Sentinel sites
-- [BCMv8: Basin Characterization Model, 1896-present](https://www.sciencebase.gov/catalog/item/5f29c62d82cef313ed9edb39) and [CMIP5 future scenarios](https://www.sciencebase.gov/catalog/item/61e069f3d34e8911d9fe9dba) for California hydrology 
-- [Feather River 30-m BCMv8](https://www.sciencebase.gov/catalog/item/686f08f2d4be020e5c01cbbe) 
-
----
 
 ## Teaching & mentoring
 
