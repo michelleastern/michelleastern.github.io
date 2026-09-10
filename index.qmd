@@ -35,6 +35,7 @@ hydrology • sediment transport • soil moisture • post-fire runoff • remo
 ## Selected projects
 
 - [Cyanobacterial Harmful Algal Bloom (CHABs) NCEAS Synthesis](https://delta-stewardship-council.github.io/swg-26-chab/) 
+- [Daily python BCM: bcm-py-daily](https://github.com/ajoros/bcm-py-daily)
 - Soil moisture monitoring in the [Upper Feather River watershed](https://ca.water.usgs.gov/upper-feather-river-watershed/)
 - [Climate and hydrology explorer](https://ca.water.usgs.gov/projects/cdfw-climate-hydrology-explorer) for CDFW Sentinel sites
 - [BCMv8: Basin Characterization Model, 1896-present](https://www.sciencebase.gov/catalog/item/5f29c62d82cef313ed9edb39) and [CMIP5 future scenarios](https://www.sciencebase.gov/catalog/item/61e069f3d34e8911d9fe9dba) for California hydrology 
